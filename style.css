@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+#container{
+    width: 1000px;
+    height: 550px;
+    background-image:url();
+    margin: 20px auto;
+}
+#calculator{
+    background-color:white;
+    width: 320px;
+    height: 520px;
+    margin: 0 auto;
+    top:20px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px;
+}
